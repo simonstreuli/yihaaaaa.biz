@@ -56,15 +56,15 @@
 ---
 ## Accesspoint
 
-#### Benutzername:
+#### Benutzername / Admin:
 
-- 
+- ITGURUS / admin
 #### Passwort:
 
-- 
+- Zli12345
 #### IP-Adresse:
 
-- 
+- 128.128.128.133
 #### Subnetzmaske:
 
 - 255.255.255.192
