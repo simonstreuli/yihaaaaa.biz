@@ -1,9 +1,9 @@
 ### Stückliste:
 ---
-- Router (1)
-- Switch (1)
-- AccessPoint (1)
-- Firewall (1)
-- Drucker (1)
-- Client (NB / PC) --> (9)
-- Server (1)
+- Router (60.-) *verfügbar*
+- Switch (40.-) *verfügbar*
+- AccessPoint (200.-) *ausverkauft*
+- Firewall (600.-) *verfügbar*
+- Drucker (370.-) *verfügbar*
+- Client (NB / PC)
+- Server (4000.-) *verfügbar in kleinen Mengen*
